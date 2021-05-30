@@ -10,7 +10,7 @@ blog:
                                L'actualité de l'entreprise Astra Porta et de ses filliales
 
 # Layout configuration
-  logo_path                  : "https://astraporta.com/assets/images/logo_1.png" # path to logo file
+  logo_path                  : "/assets/img/logoastraporta.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts

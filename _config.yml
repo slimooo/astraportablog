@@ -7,7 +7,7 @@ url                          : "https://blog.astraporta.com" # the base hostname
 blog:
   title                      : Astra Porta Blog
   description                  : >
-                               this should contain a proper description
+                               L'actualité de l'entreprise Astra Porta et de ses filliales
 
 # Layout configuration
   logo_path                  : "https://astraporta.com/assets/images/logo_1.png" # path to logo file

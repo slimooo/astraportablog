@@ -20,15 +20,15 @@ blog:
   titles_only                : false # show post titles only on main blog page
 
 # Fonts
-  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
+  font                       : '"Montserrat", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+  load_google_fonts          : 'Montserrat:400,400italic,700,700italic'
 
 
 # Author info
 author:
-  fullname                  : Chloé
+  fullname                  : Astra Porta
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : chloe@astraporta.com # change to your e-mail address
+  mail                      : bonjour@astraporta.com # change to your e-mail address
 
 
 

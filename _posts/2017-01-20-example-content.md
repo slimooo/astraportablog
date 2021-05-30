@@ -8,7 +8,7 @@ description: >
   Howdy! This is an example blog post that shows several types of HTML content
   supported in this theme.
 hero: https://source.unsplash.com/collection/145103/
-overlay: green
+overlay: black
 published: true
 ---
 

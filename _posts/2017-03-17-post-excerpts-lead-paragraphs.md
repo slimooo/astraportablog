@@ -5,7 +5,7 @@ tags:
   - dactl
   - howto
 hero: 'https://source.unsplash.com/collection/261936/'
-overlay: blue
+overlay: grey
 published: true
 ---
 
